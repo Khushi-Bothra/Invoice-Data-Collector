@@ -1,0 +1,6 @@
+1)Code editor to run the jupyter notebook(Final_Code.ipynb) is required.
+2)The file pdfservices-api-credentials.json is required inside the folder to use the adobe services.
+3)The private.key file is requied inside the folder for the API to work properly
+4)The pdfservices-sdk needs to be installed int the computer for the code to work 
+5)The 100 invoices file should be inside the folder where we have the code file as in the code we are using 
+the name of the file directly and the not the path.  
